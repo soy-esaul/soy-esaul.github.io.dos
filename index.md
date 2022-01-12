@@ -18,4 +18,4 @@ Otras cosas.
 
 La siguiente es una ecuación:
 
-$$ \int_\Omega F d\sigma = \Omega_\sigma(f) $$
+$\int_\Omega F d\sigma = \Omega_\sigma(f)$
