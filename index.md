@@ -18,4 +18,11 @@ Otras cosas.
 
 La siguiente es una ecuación:
 
-$\int_\Omega F d\sigma = \Omega_\sigma(f)$
+```
+def my_func(arg1,arg2):
+  for i in arg1:
+    arg2 =+ i
+  return arg2
+ 
+print(my_func(20,2)
+```
