@@ -1,6 +1,6 @@
 layout: post
 title: "Primera entrada del blog"
-date: 2022-01-20 22:28:35 -0000
+date: 2022-01-20 22:28:35 -0800
 categories: general matemáticas probabilidad cálculo álgebra-lineal
 
 # Primera entrada
